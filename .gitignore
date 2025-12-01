@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+data_agents.py
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+#custom
+.claude/
+scratchpad_persist.txt
+claude.md
+ignore/
+
+.env
+__pycache__
+
+
+
