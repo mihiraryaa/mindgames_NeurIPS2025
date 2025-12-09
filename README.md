@@ -1,6 +1,6 @@
 # Revac: Social Deduction Reasoning Agent
 
-🏆 **1st Place - MindGames Arena NeurIPS 2025 (Social Deduction Track, Open Division)**
+🏆 **1st Place(Team Phoebus) - MindGames Arena NeurIPS 2025 (Social Deduction Track, Open Division)**
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
