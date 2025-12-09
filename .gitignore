@@ -20,7 +20,8 @@ venv/
 scratchpad_persist.txt
 claude.md
 ignore/
-
+results/
+report.tex
 .env
 __pycache__
 
